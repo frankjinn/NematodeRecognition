@@ -1,5 +1,5 @@
 # NematodeRecognition
-## Model using MobileNet from Google to eventually recognize and count the number of nematodes on a petri dish.
+Model using MobileNet from Google to recognize and count the number of nematodes on a petri dish from either a photo or a live video feed.
 
 Milestones:
 1. Completed prototype image capture using waterbottle, face, and catpin.
